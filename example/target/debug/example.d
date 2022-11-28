@@ -1,1 +1,0 @@
-/workspace/discord-command/example/target/debug/example: /workspace/discord-command/command/src/commands.rs /workspace/discord-command/command/src/lib.rs /workspace/discord-command/example/src/main.rs
